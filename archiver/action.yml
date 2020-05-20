@@ -1,0 +1,5 @@
+name: 'Archive tests'
+description: 'Run testarchiver'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
